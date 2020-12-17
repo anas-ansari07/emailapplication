@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=email
+comment0.text=\r\n\ \ EMAIL\ APPLICATION\r\n\ A\ email\ administration\ application\ for\ creating\ the\ accounts\ of\ new\ hires\r\n\ \r\n\r\n\ @author\ (ANAS\ ANSARI\ )\r\n\ @version\ (created\ on-17/10/2020)\r\n
+comment1.params=
+comment1.target=email()
+comment10.params=
+comment10.target=java.lang.String\ displayinfo()
+comment2.params=
+comment2.target=java.lang.String\ setDepartment()
+comment3.params=length
+comment3.target=java.lang.String\ randomPassword(int)
+comment4.params=capacity
+comment4.target=void\ setmailboxcapacity(int)
+comment5.params=email
+comment5.target=void\ setAlternateEmail(java.lang.String)
+comment6.params=password
+comment6.target=java.lang.String\ changePassword(java.lang.String)
+comment7.params=
+comment7.target=int\ getmailboxcapacity()
+comment8.params=
+comment8.target=java.lang.String\ getAlternateEmail()
+comment9.params=
+comment9.target=java.lang.String\ getPassword()
+numComments=11
